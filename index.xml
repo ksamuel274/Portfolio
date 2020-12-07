@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Kingsley Samuel</title>
+    <link>https://github.com/ksamuel274/Kingsley_Portfolio/</link>
+    <description>Recent content in HOME on Kingsley Samuel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://github.com/ksamuel274/Kingsley_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Queue</title>
+      <link>https://github.com/ksamuel274/Kingsley_Portfolio/portfolio/project2/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://github.com/ksamuel274/Kingsley_Portfolio/portfolio/project2/</guid>
+      <description>This project takes in a data set of songs then sorts them into a queue.
+There are several ways to sort and search through data. Within my studies of data structures I have found that there are many methods to get to the same result, it&amp;rsquo;s up to you the programmer to choose which is the most efficient and the fastest to process. This project show uses queues and stacks in order to take in a set of data, specifically in this case Spotify Chart list, the sort it and display the music to play in a queue.</description>
+    </item>
+    
+    <item>
+      <title>Basic Queue</title>
+      <link>https://github.com/ksamuel274/Kingsley_Portfolio/portfolio/project3/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://github.com/ksamuel274/Kingsley_Portfolio/portfolio/project3/</guid>
+      <description>This project takes in a data set of songs then sorts them into a queue.
+There are several ways to sort and search through data. Within my studies of data structures I have found that there are many methods to get to the same result, it&amp;rsquo;s up to you the programmer to choose which is the most efficient and the fastest to process. This project show uses queues in order to take in a set of data, specifically in this case Spotify Chart list, the sort it and display the music queue in-order of alphabetical order.</description>
+    </item>
+    
+    <item>
+      <title>Storing Songs using Binary Trees</title>
+      <link>https://github.com/ksamuel274/Kingsley_Portfolio/portfolio/sample-project/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://github.com/ksamuel274/Kingsley_Portfolio/portfolio/sample-project/</guid>
+      <description>This project takes in a data set of songs then sorts and creates a new playlist using a binary search tree.
+There are several ways to sort and search through data. Within my studies of data structures I have found that there are many methods to get to the same result, it&amp;rsquo;s up to you the programmer to choose which is the most efficient and the fastest to process. This project show uses binary search tree in order to take in a set of data, specifically in this case Spotify Chart list, the sort it and create a new playlist using a binary search tree.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://github.com/ksamuel274/Kingsley_Portfolio/post/getting-started/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://github.com/ksamuel274/Kingsley_Portfolio/post/getting-started/</guid>
+      <description>&lt;p&gt;Checkout my work experiences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Manage Your Menu</title>
+      <link>https://github.com/ksamuel274/Kingsley_Portfolio/post/manage-your-menu/</link>
+      <pubDate>Thu, 02 May 2019 19:06:29 +0200</pubDate>
+      
+      <guid>https://github.com/ksamuel274/Kingsley_Portfolio/post/manage-your-menu/</guid>
+      <description>&lt;p&gt;Menu in the sidebar can be defined within the &lt;code&gt;config.toml&lt;/code&gt; or directly in the files.
+I prefer the config file approach, as this menu is pretty simple.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://github.com/ksamuel274/Kingsley_Portfolio/post/define-specific-og-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/ksamuel274/Kingsley_Portfolio/post/define-specific-og-image/</guid>
+      <description>I found out about Data Science during CUNY&amp;rsquo;s 90 Day Challenge which provided access to a plathora of Coursera courses. It peeked my interest because it doesn&amp;rsquo;t rely on just your computer science skills, but a combination of computer science, statistics and business. It&amp;rsquo;s a field of study which is not really discussed within school, but fortunately Brooklyn College has added Data Science as a minor which I have decided to enlist in to.</description>
+    </item>
+    
+  </channel>
+</rss>
